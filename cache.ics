@@ -1,0 +1,689 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//primarysite.net//Diary//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+SUMMARY:End of Summer Term - school closes at 1:30pm
+DTSTART;VALUE=DATE:20210721
+DTEND;VALUE=DATE:20210722
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:3b437cb7-498f-40aa-9e9e-135c939d3e22@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1543390/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INSET Day - no school for children
+DTSTART;VALUE=DATE:20210607
+DTEND;VALUE=DATE:20210608
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:0da9b790-798a-4a75-b56a-fab87125b781@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1659584/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Half Term
+DTSTART;VALUE=DATE:20210531
+DTEND;VALUE=DATE:20210605
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:42833f9e-0e4f-49b1-a178-dfb5a1445d8b@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1543385/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INSET Day - no school for children
+DTSTART;VALUE=DATE:20210528
+DTEND;VALUE=DATE:20210529
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:c4217f23-645f-4745-8f96-42d128d0dac9@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1659583/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:May Bank Holiday
+DTSTART;VALUE=DATE:20210503
+DTEND;VALUE=DATE:20210504
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:fd07aab0-2e3d-4b45-b9a7-5e326ae17648@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1543397/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Start of Summer Term
+DTSTART;VALUE=DATE:20210419
+DTEND;VALUE=DATE:20210420
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:2f74f532-b34b-470e-b9c4-5a410a740671@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1543396/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:End of Spring Term - school closes at 1:30pm
+DTSTART;VALUE=DATE:20210331
+DTEND;VALUE=DATE:20210402
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:0ee3bec9-ac8b-45ed-b47e-609dab293e66@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1543387/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Half Term
+DTSTART;VALUE=DATE:20210215
+DTEND;VALUE=DATE:20210220
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:e9875593-3cdb-49b0-b44f-fe0be2b15c16@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1543381/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Start of Spring Term
+DTSTART;VALUE=DATE:20210104
+DTEND;VALUE=DATE:20210105
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:77eee166-abc0-468f-bfec-67d7ccc7c41c@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1543395/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:End of Autumn Term 2020
+DTSTART;VALUE=DATE:20201218
+DTEND;VALUE=DATE:20201219
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:796ab500-9d0f-42f4-b3fa-8e6df2244b48@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1608501/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Half Term
+DTSTART;VALUE=DATE:20201026
+DTEND;VALUE=DATE:20201031
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:0af13571-1abc-4f92-8691-e5aaddb6911e@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1543379/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INSET Day - no school for children
+DTSTART;VALUE=DATE:20201023
+DTEND;VALUE=DATE:20201024
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:c2ed9956-5422-4bb5-961b-c1200acfb45a@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1543380/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Start of Autumn Term
+DTSTART;VALUE=DATE:20200903
+DTEND;VALUE=DATE:20200904
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:03e216d1-2c15-4801-9d58-462e82a9977b@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1543363/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INSET Day - no school for children
+DTSTART;VALUE=DATE:20200901
+DTEND;VALUE=DATE:20200903
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:bd1c7706-c4a2-4ec9-870d-564722299202@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1659582/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INSET DAY - no school for children - except Critical Worker provis
+ ion. Critical Worker provision ends at 1.30pm
+DTSTART;VALUE=DATE:20200721
+DTEND;VALUE=DATE:20200723
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:d5bc61ec-bbd8-4735-859d-f0f4a8127c1a@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1659866/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INSET DAY - no school for children - except Critical Worker provis
+ ion
+DTSTART;VALUE=DATE:20200720
+DTEND;VALUE=DATE:20200722
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:ecf15ee7-22fc-449e-9c81-7724e378ce09@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1319390/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INSET DAY - no school for children - except Critical Worker provis
+ ion
+DTSTART;VALUE=DATE:20200719
+DTEND;VALUE=DATE:20200721
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:44f38efb-3eb9-4eb9-bfa8-41705038d7e3@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1319386/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:End of Summer Term
+DTSTART;VALUE=DATE:20200716
+DTEND;VALUE=DATE:20200718
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:7275ea29-1c5f-4244-a968-46928ec6a3b5@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1266950/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Sports Day
+DTSTART;VALUE=DATE:20200709
+DTEND;VALUE=DATE:20200711
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:8958491c-cc8f-48cd-82e4-6cd796eaaccf@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:see letter for details (sent 24 June)
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1661667/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:May Half Term
+DTSTART;VALUE=DATE:20200524
+DTEND;VALUE=DATE:20200530
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:2c1ecd15-d1f3-4ba3-b561-147e0f93f54e@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1266953/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:May Bank Holiday
+DTSTART;VALUE=DATE:20200507
+DTEND;VALUE=DATE:20200509
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:334ff68a-7e53-4177-93ef-b88c874ce9b0@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1319501/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:School Closes till further notice - 3pm (Hoptune and Sports Stars 
+ will take place as usual)
+DTSTART;VALUE=DATE:20200320
+DTEND;VALUE=DATE:20200321
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:1c4dd066-fd90-4fb9-952e-9eb102f6fc0f@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1650465/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PTA Social - 7:30pm in school hall
+DTSTART;VALUE=DATE:20200313
+DTEND;VALUE=DATE:20200314
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:9ca34690-aab3-42e4-a18b-89d307f208db@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:Doors Open 7.30pm\, First race shown 8pm.  Reply slips must be
+  handed in to School Office by Friday 14th February - print outs available
+  from office foyer. (Contactless payment is available at pick up and cash 
+ otherwise.) \n£10 Per Person (adults only).  Includes 1 free horse choice
+  and snacks.  Selection of beer\, wine\, soft drink and prosecco from a li
+ censed bar.  Race Night Attire Optional\nCome with a team\, maximum of 12 
+ or we can set you up when you arrive. The evening will consist of 8 horse 
+ races shown on the Big Screen\, they are pre-recorded and no one has seen 
+ them before. Each race will be chosen at random on the night. \nWe will be
+  charging £1 per horse to bet\, each race has 8 horses and each race has 
+ one Winner. Whoever backs the winner\, will receive a return. \nFor exampl
+ e:\nTotal tickets sold for Race 1 = 90. \n10 people bet £1 on Horse 2 tha
+ t wins. £45 goes into charity pot\, £45 goes into a winners’ pot. Each
+  ticket receives £4.50 in return.  \nThis is a social get together for pa
+ rents and also a great opportunity to meet new parents and people we just 
+ don't get time to talk to on the rush of school runs.
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1552737/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parent Consultation Evening - 3:30-6pm
+DTSTART;VALUE=DATE:20200312
+DTEND;VALUE=DATE:20200313
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:823fc1fa-2d3e-47c5-9606-72aaf971c5b9@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:Further information to follow.  You will be able to book your 
+ appointment online\, or through the school office\, from Monday 10 Februar
+ y.
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1497654/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parent Consultation Evening - 3:30-6pm
+DTSTART;VALUE=DATE:20200310
+DTEND;VALUE=DATE:20200311
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:c0db06fc-3d1e-477a-9974-952f24233fde@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:Further information to follow.  You will be able to book your 
+ appointment online\, or through the school office\, from Monday 10 Februar
+ y.
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1497653/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bedtime Stories (& Book Fair) - 4:30-5:15pm
+DTSTART;VALUE=DATE:20200305
+DTEND;VALUE=DATE:20200306
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:2facca68-835e-494e-acd7-a758489b6809@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:Come back to school in your pyjamas for a bedtime story!  You 
+ are invited to bring your child back to school at 4.30pm for stories and h
+ ot chocolate with the teachers.  \n\nThis year\, you are welcome to stay i
+ n the hall whilst the children are enjoying a story in their classroom.  I
+ n the hall there will be: \n•	A Book Fair – a selection of children’
+ s books will be on sale.  We receive commission on purchases from the book
+  fair and any money raised this way will be used to buy exciting books for
+  the library and classrooms.  More details on our Book Fair will follow.\n
+ •	A Book Exchange – please feel free to bring along any books for adul
+ ts that you no longer need and take a book donated by other parents/carers
+ .\n•	Reading Support – ideas on how to support reading at home.\n•	R
+ efreshments – the PTA will be selling tea/coffee and cake.\n\nThere will
+  also be a story time area for younger siblings which will be run by the P
+ TA.  Parents and carers must stay with their younger children.  Older sibl
+ ings are also welcome to join you in the hall\, but again are the responsi
+ bility of yourselves.\n\nPlease complete the reply slip if your child woul
+ d like to attend and return it to the school office by Friday 28 February.
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1561606/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Travelling Book Fair - 4:30 - 5:15pm
+DTSTART;VALUE=DATE:20200305
+DTEND;VALUE=DATE:20200306
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:cfa5258b-db12-4c3a-8699-1f704f88addb@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:Come and browse the selection of books from the Travelling Boo
+ k Fair\, and help the school earn commission on the books you buy.\nWe wou
+ ld be very grateful for assistance with the book sale.  If there is anyone
+  who would be available to help at these times please let the school offic
+ e know.
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1617791/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Book Day
+DTSTART;VALUE=DATE:20200305
+DTEND;VALUE=DATE:20200306
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:bcbe05b3-343a-4a6f-8d4c-d6d9c1b40250@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:Your child may come to school dressed as their favourite story
+  book character.
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1617795/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Travelling Book Fair - 8:30-9:00am
+DTSTART;VALUE=DATE:20200304
+DTEND;VALUE=DATE:20200305
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:1af46a5f-48fe-439c-a4cc-261ab025d593@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:Come and browse the selection of books from the Travelling Boo
+ k Fair\, and help the school earn commission on the books you buy.\nWe wou
+ ld be very grateful for assistance with the book sale.  If there is anyone
+  who would be available to help at these times please let the school offic
+ e know.
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1572827/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NO Art and Soul Class
+DTSTART;VALUE=DATE:20200226
+DTEND;VALUE=DATE:20200227
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:9e9b1a7d-135f-4d10-a6fb-4def5302102a@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:Art and Soul after school club has had to be cancelled because
+  of illness.  Please arrange for your child to be collected at 3pm.
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1630451/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girl Guides' and Scouts' World Thinking Day
+DTSTART;VALUE=DATE:20200225
+DTEND;VALUE=DATE:20200226
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:beff6559-d5d4-4f0f-b2a6-f29cc558d85c@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:Rainbows\, Brownies\, Beavers & Cubs may wear their uniforms o
+ n the 25th February\, to remind themselves and others of how many people b
+ elong to the biggest voluntary youth organisations around the world\, and 
+ to think about them all at this time.
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1617789/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INSET DAY - no school for children
+DTSTART;VALUE=DATE:20200224
+DTEND;VALUE=DATE:20200225
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:2319066e-5b53-4099-9c6a-234e89d015b7@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1319383/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:February Half Term
+DTSTART;VALUE=DATE:20200217
+DTEND;VALUE=DATE:20200222
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:e7de3b44-3ce6-4512-b351-9aeb17065e11@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1266939/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PTA Cake Sale - Year 1 to donate cakes
+DTSTART;VALUE=DATE:20200214
+DTEND;VALUE=DATE:20200215
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:e68c7568-9bc8-496b-97e6-5c52eb522973@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:Children should bring £1 each in to school and they will be g
+ iven the opportunity to choose their cakes/biscuits in the afternoon.  Par
+ ents may buy cakes from 2:50pm.\nYear 1 children are requested to donate c
+ akes/biscuits for this sale.  Please bring your donations to the school of
+ fice on the morning of the sale.  Remember: There should be NO NUTS in the
+  cakes!
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1595221/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Messy Church - 3:00-4:30pm
+DTSTART;VALUE=DATE:20200211
+DTEND;VALUE=DATE:20200212
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:9a18f1fd-72f6-4d0e-806a-c70ef4285c9b@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:No need to book - just turn up\, but parents should stay with 
+ children for this activity.  Siblings are welcome.
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1531056/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Children's Mental Health Day - Mufti Day
+DTSTART;VALUE=DATE:20200207
+DTEND;VALUE=DATE:20200208
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:f472c70c-90a6-4e3c-ab78-e28e092808b0@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:A celebration of all things 'happy'.  Children are invited to 
+ wear something yellow on Friday 7th February. This can range from accessor
+ ies (hair bands\, sunhats\, socks\, etc.)\, 1 item of clothing (T-shirt\, 
+ jumper\, etc.) or even wearing yellow from head to toe!  We would like to 
+ be able to show our support to the Place2Be charity by asking for a £1 do
+ nation if you choose to wear something yellow.
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1576278/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Travelling Theatre company performing Robin Hood to school
+DTSTART;VALUE=DATE:20200131
+DTEND;VALUE=DATE:20200201
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:38b18af6-02c9-478b-95da-46878872460f@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1448231/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PTA Meeting - 7:30pm in school hall
+DTSTART;VALUE=DATE:20200116
+DTEND;VALUE=DATE:20200117
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:2b804d82-3e5b-44f1-abaa-245298746e3d@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:Everyone welcome.  Bring drinks. Snacks will be provided.
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1552717/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Start of Spring Term
+DTSTART;VALUE=DATE:20200106
+DTEND;VALUE=DATE:20200107
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:4e0ab08d-8dba-42c1-81dd-95b65092345d@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1188956/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:End of Autumn Term - school finishes at 1:30pm
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:8d0a688e-34d5-4fa8-bce4-f63bcf3ef57b@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1188954/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christmas Party Day
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:ea25ecbb-2ecb-4a11-bcd8-5dfff2366dd8@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1505789/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufti-Day - (bring items for hamper)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20191213T090000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20191213T150000
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:246c72db-b470-47b5-9cfb-7e318be0ead8@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:PTA Mufti-Day in exchange for items for Christmas hampers
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1527737/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PTA Cheese & Quiz Night - 7:30pm in school hall
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:eed2ab1c-ef90-49fd-a16e-2a02685c7bcc@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1368391/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pied Piper Theatre company - Star in the Jar
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:d44591bf-a900-4409-86ab-1dad00262878@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1448243/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Children in Need Mufti Day (children to wear home clothes in excha
+ nge for £1 suggested donation)
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:478ff79f-d644-4038-bf78-5884b03920dd@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1486904/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parent Consultation Evening - 3:30-6pm
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:c6e25ed6-ba9e-45a1-99b6-e5a002d27cdd@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1342667/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flu immunisations
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:559a4c4b-db38-461d-aa6c-75e8de71bdda@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1448204/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parent Consultation Evening - 3:30-6pm
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:b72cdeaa-3be2-42dc-ac57-a5c76a685d38@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1342666/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GroundForce Day - 9:00am - 12:00pm - Parent volunteers needed
+DTSTART;VALUE=DATE:20191109
+DTEND;VALUE=DATE:20191110
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:60bdb809-0c53-407d-8846-6b4915fe5d57@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1448201/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Messy Church - 3:00-4:30pm
+DTSTART;VALUE=DATE:20191105
+DTEND;VALUE=DATE:20191106
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:b8469c91-3ce9-4ac7-abbf-9496bb1c1480@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:Choir will be held in the Den classroom because of Messy Churc
+ h being held in the hall
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1365572/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:October Half Term
+DTSTART;VALUE=DATE:20191028
+DTEND;VALUE=DATE:20191102
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:baf35088-7b09-4437-b189-e8231f4f291e@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1188953/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INSET DAY - no school for children
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20191025T090000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20191025T150000
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:65fadf76-1d42-43c5-8460-9bed016b6244@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1319382/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PTA Cake Sale (Year 2 to bring cakes)
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191019
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:87917c9a-5e68-4e1a-b86d-aaccd72306c1@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1479057/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:School Photographer taking individual photographs
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191018
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:1278bb21-bf75-46b0-a331-b95c2052f3a2@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1323298/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grandparents' Day Assembly - 9:30am and 1:30pm
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191012
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:441b1452-a0b7-4242-bfaf-d2e76e339fa6@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:Save the date: Further information on how to apply for tickets
+  to follow
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1422401/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PTA Meeting - 7:30pm in school hall
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190920
+DTSTAMP;VALUE=DATE-TIME:20200907T121100Z
+UID:00e7f055-7645-413a-8e92-7abbb33232d8@www.onslow.surrey.sch.uk
+CATEGORIES:Whole School
+DESCRIPTION:
+STATUS:CONFIRMED
+URL:https://www.onslow.surrey.sch.uk/diary/detail/1351018/
+END:VEVENT
+END:VCALENDAR
