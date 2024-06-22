@@ -6,3 +6,4 @@ venv
 tfs.tar
 .vscode
 tfs
+.DS_Store
