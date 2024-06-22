@@ -89,13 +89,13 @@ class TermDates:
 
         for e in calendar.walk('vevent'):
             match = find_matches(regexes, e['SUMMARY'])
-            ds = e['DTSTART'].dt
-            de = e['DTEND'].dt
-            if isinstance(ds, datetime.datetime):
-                ds = ds.date()
-            if isinstance(de, datetime.datetime):
-                de = de.date()
             if match is not None:
+                ds = e['DTSTART'].dt
+                de = e['DTEND'].dt
+                if isinstance(ds, datetime.datetime):
+                    ds = ds.date()
+                if isinstance(de, datetime.datetime):
+                    de = de.date()
                 range_val, range_type = match(ds, de)
                 if range_type == 'termEnd':
                     term_end = range_val
