@@ -112,3 +112,6 @@ class TermDates:
 
     def is_school_day(self, date):
         return date in self.__ranges and date.weekday() < 5
+    
+    def is_greg_school_day(self, date):
+        return date in self.__ranges and date.weekday() < 5 and date.isocalendar().week % 2 == 0

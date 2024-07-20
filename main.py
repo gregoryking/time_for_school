@@ -17,7 +17,7 @@ if __name__ == "__main__":
         await asyncio.sleep(0)
 
     async def run_time_for_school_lights():
-        if td.is_school_day(datetime.datetime.now().date()):
+        if td.is_greg_school_day(datetime.datetime.now().date()):
             await light.test_all()
         else:
             await asyncio.sleep(0)
@@ -29,11 +29,18 @@ if __name__ == "__main__":
     light = Light()
     loop.create_task(light.run())
 
-    # Schedule updates to the calendar at 3am on first of every month
-    crontab('0 3 1 * *', func=async_update_calendar, start=False)
-    # crontab('40 12 * * *', func=async_update_calendar, start=True)
-    # Run time for school lights every school day morning at 07:40
-    crontab('07 11 * * *', func=run_time_for_school_lights, start=True)
-    # crontab('30 12 * * *', func=run_time_for_school_lights, start=True)
+    async def scheduler():
+        while True:
+            await light.test_all()
+            # await light.test_boogie()
+            now = datetime.datetime.now()
+            # Schedule calendar update at 3am on the first of every month
+            if now.day == 1 and now.hour == 3 and now.minute == 0:
+                await async_update_calendar()
+            # Run time for school lights every school day morning at 07:15
+            if now.hour == 7 and now.minute == 15:
+                await run_time_for_school_lights()
+            await asyncio.sleep(60)  # check every minute
 
+    loop.create_task(scheduler())
     loop.run_forever()

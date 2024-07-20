@@ -15,8 +15,15 @@ formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(messag
 handler.setFormatter(formatter)
 log.addHandler(handler)
 
-RUN_TIME_S = 20 # 1 hour
+RUN_TIME_S = 75 * 60 # 75 mins
 
+# Start at 07:15
+# End at 08:30
+# 75 mins total
+# 30 mins Green
+# 40 mins transition
+# 2 mins red
+# 3 mins rainbow boogie
 
 sequence = [
     {
@@ -25,7 +32,7 @@ sequence = [
             {
                 'colour': '#00ff00'
             },
-        'duration': 0.6
+        'duration': 30/75
     },
     {
         'type': 'gradient',
@@ -35,7 +42,7 @@ sequence = [
                 'to_colour': '#e24c00',
                 'freq': 0.01
             },
-        'duration': 0.1
+        'duration': (40/75)/2
     },
     {
         'type': 'gradient',
@@ -45,7 +52,7 @@ sequence = [
                 'to_colour': '#ff0000',
                 'freq': 0.01
             },
-        'duration': 0.1
+        'duration': (40/75)/2
     },
     {
         'type': 'solid',
@@ -53,7 +60,7 @@ sequence = [
             {
                 'colour': '#ff0000'
             },
-        'duration': 0.05
+        'duration': 2/75
     },
     {
         'type': 'rainbow_boogie',
@@ -62,7 +69,7 @@ sequence = [
                 'freq': 0.1
             },
 
-        'duration': 0.15
+        'duration': 3/75
     },
 ]
 
@@ -85,7 +92,6 @@ class Light(object):
             # You can create any number of topic filters
             topic_filters = (
                 "stat/kitchen-mood-light/POWER",
-                # 👉 Try to add more filters!
             )
             for topic_filter in topic_filters:
                 # Log all messages that matches the filter
@@ -109,7 +115,6 @@ class Light(object):
             # Publish a random value to each of these topics
             topics = (
                 "cmnd/kitchen-mood-light/COLOR",
-                # 👉 Try to add more topics!
             )
 
             await asyncio.gather(*self.__tasks)
@@ -128,6 +133,10 @@ class Light(object):
         colour = Color(color).get_hex_l() + '00' # Set white channel to off for colourful stuff
         await self.__client.publish("cmnd/kitchen-mood-light/COLOR", colour)
 
+    async def __set_white(self):
+        colour = '000000ff'
+        await self.__client.publish("cmnd/kitchen-mood-light/COLOR", colour)
+
     async def __solid_colour(self, type_params, duration):
         print("Solid")
         duration_s = duration * RUN_TIME_S
@@ -138,7 +147,7 @@ class Light(object):
         print("Gradient")
         from_colour = Color(type_params['from_colour'])
         to_colour = Color(type_params['to_colour'])
-        freq = type_params['freq']
+        freq = max(type_params['freq'],0.1)
         duration_s = duration * RUN_TIME_S
         gradient_steps = int(duration_s / freq)
         gradient = list(from_colour.range_to(to_colour, 2 + gradient_steps))
@@ -153,12 +162,13 @@ class Light(object):
 
     async def __rainbow_boogie(self, type_params, duration):
         print("Rainbow")
-        freq = type_params['freq']
+        freq = max(type_params['freq'],0.1)
         duration_s = duration * RUN_TIME_S
         num_steps = int(duration_s / freq)
         for step in range(num_steps):
             await self.__set_colour(self.__random_colour())
             await asyncio.sleep(freq)
+        await self.__set_white()
 
     def add_test_all_task(self):
         task = asyncio.create_task(self.test_all())
@@ -176,7 +186,6 @@ class Light(object):
         await self.__solid_colour(seq3['type_params'], seq3['duration'])
         await self.__rainbow_boogie(seq4['type_params'], seq4['duration'])
         await self.__client.publish("cmnd/kitchen-mood-light/POWER", "OFF", qos=1)
-
 
     async def __post_to_topics(self, topics):
         while True:
