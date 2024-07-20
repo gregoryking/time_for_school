@@ -31,7 +31,6 @@ if __name__ == "__main__":
 
     async def scheduler():
         while True:
-            await light.test_all()
             # await light.test_boogie()
             now = datetime.datetime.now()
             # Schedule calendar update at 3am on the first of every month
